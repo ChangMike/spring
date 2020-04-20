@@ -1,0 +1,1 @@
+使用Environment获取属性
